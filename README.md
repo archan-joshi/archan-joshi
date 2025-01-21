@@ -1,5 +1,8 @@
-## I'm current in my 4th Year of Computer Science at Toronto Metropolitan University
-## Extensive IT Experience: Over two years of experience in IT, serving as a Field Services Technician and Technical Support Engineer.
+## Hi There!
+
+I'm currently in my 4th Year of Computer Science at Toronto Metropolitan University.
+
+I have an extensive IT background with over two years of experience, serving as a Field Services Technician and Technical Support Engineer.
 
 
 <!--
