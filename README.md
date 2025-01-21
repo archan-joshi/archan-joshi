@@ -1,4 +1,6 @@
-## Hi there 👋
+## I'm current in my 4th Year of Computer Science at Toronto Metropolitan University
+## Extensive IT Experience: Over two years of experience in IT, serving as a Field Services Technician and Technical Support Engineer.
+
 
 <!--
 **archan-joshi/archan-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
